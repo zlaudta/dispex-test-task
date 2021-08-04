@@ -1,6 +1,6 @@
 import { useSelector } from "react-redux";
 import { useParams, Link } from "react-router-dom";
-import { Header, Segment, Button } from "semantic-ui-react";
+import { Segment, Button } from "semantic-ui-react";
 import styled from "styled-components";
 
 import AddressesTree from "../../addresses/components/AddressesTree";
